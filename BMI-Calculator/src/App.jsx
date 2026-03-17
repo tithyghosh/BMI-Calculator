@@ -113,7 +113,7 @@ const App = () => {
             title="Weight"
             value={weight}
             setValue={setWeight}
-            unit="kg"x
+            unit="kg"
           />
           <ValueCard
             title="Age"
